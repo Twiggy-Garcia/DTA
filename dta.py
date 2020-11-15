@@ -28,7 +28,7 @@ musicfile1 = musicfile1.replace(" ", "%20")
 #tracks
 musicfile2 = "Find a way(DL mix).mp3"
 musicfile2 = musicfile2.replace(" ","%20")
-musicfile3 = "Day Dream.mp3"
+musicfile3 = "DTA/Day Dream.mp3"
 musicfile3 = musicfile3.replace(" ","%20")
 musicfile4 = "Kount to 135.aif"
 musicfile4 =musicfile4.replace(" ","%20")
