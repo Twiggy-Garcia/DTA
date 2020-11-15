@@ -22,15 +22,15 @@ print('''
 #cryptography  
             
 #tracks 
-musicfile1 = "want to give you time gtr.mp3"
+musicfile1 = "DTA/want to give you time gtr.mp3"
 #removes white spaces to 
 musicfile1 = musicfile1.replace(" ", "%20")
 #tracks
-musicfile2 = "Find a way(DL mix).mp3"
+musicfile2 = "DTA/Find a way(DL mix).mp3"
 musicfile2 = musicfile2.replace(" ","%20")
 musicfile3 = "DTA/Day Dream.mp3"
 musicfile3 = musicfile3.replace(" ","%20")
-musicfile4 = "Kount to 135.aif"
+musicfile4 = "DTA/Kount to 135.aif"
 musicfile4 =musicfile4.replace(" ","%20")
 
 #menue that lets you choose a track to play        
